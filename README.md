@@ -25,4 +25,6 @@
 # [Skill Up Courses](https://github.com/MariiiomH/SkillUp_Certificates)
 * Intro to Neural Network
 
-
+# [DataCamp](https://github.com/MariiiomH/DataCamp-Certificates)
+* Intro to Python
+* Intermediate Python
