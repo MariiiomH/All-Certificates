@@ -17,6 +17,7 @@
 # [LinkedIn Courses](https://github.com/MariiiomH/LinkedIn_Certificates)
 * Introduction to Deep Learning with OpenCV
 * Programming Foundations : Fundamentals
+* Programming Foundations : Beyond the Fundamentals
 * Programming Foundations : Memory Pointers and Garbage Collection
 
 # [PluralSight Courses](https://github.com/MariiiomH/PluralSight_Certificates)
