@@ -1,7 +1,12 @@
  # All-Certificates
 
+# [Coursera Courses](https://github.com/MariiiomH/Coursera-Courses)
+* Python For Every Body
+* Python Data Stuctures
+* Mathematics for Machine Learning Linear Algebra
+* An Intuitive Introduction to Probability
+  
 # [Applied Data Science Lab (WorldQuant University)](https://www.credly.com/badges/8d42666a-99fb-4286-a4d2-88b02ab68db4/public_url)
-
 
 # [Udemy Courses](https://github.com/MariiiomH/Udemy_Certificates)
 * Build an API with Python , Django , SQLite
