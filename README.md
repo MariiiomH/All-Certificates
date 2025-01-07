@@ -15,6 +15,8 @@
 * English Grammer tenses & Structures
 
 # [Kaggle Courses](https://github.com/MariiiomH/Kaggle-Certificates)
+* Computer Vision
+* Intro to Deep Learning
 * Intermediate Machine Learning
 * Intro to Machine Learning
 * Python 
